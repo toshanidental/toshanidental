@@ -1,0 +1,25 @@
+a.logo {
+  width: 200px;
+}
+
+nav {
+  a {
+    color: $nav-color;
+    &:hover {
+      color: $nav-hover;
+    }
+    &.appoint_shadow {
+      @include transition(all 0.2s ease-in-out);
+      box-shadow: inset 0px 80px 80px -40px $appoint-shadow,
+        inset 0px -80px 80px -40px transparent;
+      -webkit-box-shadow: inset 0px 80px 80px -40px $appoint-shadow,
+        inset 0px -80px 80px -40px transparent;
+      color: white;
+      background: $appoint-color;
+      &:hover {
+        box-shadow: inset 0px 90px 100px -40px transparent,
+          inset 0px -90px 100px -40px $appoint-shadow;
+      }
+    }
+  }
+}
