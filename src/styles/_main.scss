@@ -1,0 +1,16 @@
+.socialmedia {
+  a {
+    opacity: 0.5;
+    @include transition(all 0.15s ease-in-out);
+    &:hover {
+      opacity: 1;
+      color: $nav-hover !important;
+    }
+  }
+}
+
+.underconstruction {
+  height: 120vh;
+  background: url("./../images/underconstruction.jpg") top center no-repeat;
+  background-size: 100%;
+}

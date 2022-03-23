@@ -1,0 +1,23 @@
+body {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  
+}
+
+ul {
+  margin: 0;
+  list-style: none;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav-color{
+  color: $nav-color;
+}
+
+.nav-hover-color{
+  color: $nav-hover;
+}
