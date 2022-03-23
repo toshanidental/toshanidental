@@ -3,14 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
-    "@testing-library/jest-dom": "^5.16.2",
-    "@testing-library/react": "^12.1.4",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "5.0.0",
-=======
     "@fortawesome/fontawesome-svg-core": "^6.1.0",
     "@fortawesome/free-brands-svg-icons": "^6.1.0",
     "@fortawesome/free-solid-svg-icons": "^6.1.0",
@@ -27,7 +19,6 @@
     "react-scripts": "5.0.0",
     "reactstrap": "^9.0.1",
     "sass": "^1.49.9",
->>>>>>> 6aafbb6dbf2c44d6b343c43c484bfbed7fa5810f
     "web-vitals": "^2.1.4"
   },
   "scripts": {
