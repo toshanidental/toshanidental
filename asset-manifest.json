@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/toshanidental/static/css/main.76530882.css",
+    "main.js": "/toshanidental/static/js/main.5252369b.js",
+    "static/js/787.92a35055.chunk.js": "/toshanidental/static/js/787.92a35055.chunk.js",
+    "static/media/underconstruction.jpg": "/toshanidental/static/media/underconstruction.db0f06ca4469f498dedf.jpg",
+    "static/media/logo.png": "/toshanidental/static/media/logo.a0fc90ff317f254a0414.png",
+    "index.html": "/toshanidental/index.html",
+    "main.76530882.css.map": "/toshanidental/static/css/main.76530882.css.map",
+    "main.5252369b.js.map": "/toshanidental/static/js/main.5252369b.js.map",
+    "787.92a35055.chunk.js.map": "/toshanidental/static/js/787.92a35055.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76530882.css",
+    "static/js/main.5252369b.js"
+  ]
+}
